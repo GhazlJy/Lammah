@@ -22,7 +22,8 @@ Clone the repository:
 
 
 
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/GhazlJy/Lammah.git
+
 cd repo-name
 Install dependencies:
 
